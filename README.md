@@ -154,10 +154,9 @@ https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog
 * Книги серии Oxford Bookworms Library написаны и озвучены носителями языка
 * Курс Петров Д. - Полиглот. Выучим английский за 16 часов
 * Онлайн видеокурс по английскому. Все бесплатно, для уровней A1-C1
-* Хорошо структурировано: тема по грамматике - тема по лексике.
-https://perfectlyspoken.com/
+Хорошо структурировано: тема по грамматике - тема по лексике. https://perfectlyspoken.com/
 * Американка, препод английского, каждую неделю выкладывает новые видео, темы в основном  общие. 
-* Подходит для развития навыка слушать https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ
+Подходит для развития навыка слушать https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ
 * Бесплатный репетитор - английский язык https://www.youtube.com/channel/UCcnjJu-ejZlLaz-OwpBd7dQ
 
 # Разное
