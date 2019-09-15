@@ -65,8 +65,8 @@
 * Крутой урок от Соракса по регулярным выражениям https://www.youtube.com/watch?v=9hLkbhRs7jM
 * Хороший ролик по запоминанию  информации в LocalStorage https://youtu.be/9Xcfucg--pA
 * Отличные видеолекции по JavaScript. У автора определённо талант рассказывать  понятно и доступно о достаточно сложных вещах.
-Основы ООП : https://youtu.be/5l01s6Vkqp0
-Асинхронность, промисы:  https://youtu.be/Ih6Q7ka2eSQ
+  + Основы ООП : https://youtu.be/5l01s6Vkqp0
+  + Асинхронность, промисы:  https://youtu.be/Ih6Q7ka2eSQ
 * Основы ООП простым языком https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu
 * Понятная статья, где подробно рассказывается об асинхронных функциях
 Подробно с картинками поясняется Event Loop, который в принципе сложен для понимания
