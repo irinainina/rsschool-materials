@@ -1,10 +1,14 @@
+# RS School materials
+### Useful materials on the JavaScript  and web
+
 # HTML, CSS
 ### Конспекты, теория
 * HTML: https://www.evernote.com/l/AXCWGHr6oixLM67NOxBw1Hcf45WvMsHCnwU/  
 * CSS: https://www.evernote.com/l/AXBWNWQjmk5F-Ioi08goImJ_VucYPV4eYCE/  
 * 30 CSS селекторов, которые вы должны знать https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048  
 
-### Интерактивные игры по CSS 
+### Интерактивные игры и курсы по HTML, CSS 
+* От создателей Hexlet. Рекомендую https://ru.code-basics.com/
 * Игровой CodeJam по css selectors. Рекомендую, забавный и полезный https://flukeout.github.io/   
 * Игровой тест + шпаргалка по селекторам CSS https://frontend30.com/css-selectors-cheatsheet/  
 * Качаем скил CSS с интересом https://cssbattle.dev/  
@@ -27,6 +31,7 @@
 * Вся документация по вебу от MDN (Mozilla Developer Network) с очень удобным поиском https://devdocs.io/
 * Полезные ссылки для веб-разработчика https://vladislavkhlebec.github.io/useful_links_for_web/index.html
 * Карта развития веб-разработчика (большая подборка полезных материалов) https://github.com/zualex/devmap
+* Хороший ресурс по изучению фронтенда https://www.freecodecamp.org/
 
 ### Иконки
 * Бесплатные векторные иконки очень хорошие https://www.flaticon.com/
@@ -40,6 +45,7 @@
 
 ### Интерактивные игры
 * Интерактивный курс - он легкий, понятный и быстро проходится https://githowto.com/ru
+* Прикольный интерактивный курс по гиту https://learngitbranching.js.org/
 
 # JavaScript 
 ### Книги, конспекты, теория
@@ -95,6 +101,8 @@ https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/
 * Вопросы на собесах https://github.com/litwin90/junior-frontend-developer-interview-questions
 * Собеседование на должность JavaScript разработчика https://habr.com/ru/post/231071/
 * Вопросы с ответами к собеседованию https://github.com/lydiahallie/javascript-questions 
+* Cписок каверзных вопросов по JavaScript. 
+Каждый вопрос — с ответом и с подробным пояснением, почему все так работает https://github.com/lydiahallie/javascript-questions
 * Типичные вопросы которые могут задач на интервью: 
 https://github.com/khan4019/front-end-Interview-Questions
 https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md
@@ -150,9 +158,11 @@ https://www.youtube.com/channel/UCdnFX7mzgup9moXG2fULOog
 https://perfectlyspoken.com/
 * Американка, препод английского, каждую неделю выкладывает новые видео, темы в основном  общие. 
 * Подходит для развития навыка слушать https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ
+* Бесплатный репетитор - английский язык https://www.youtube.com/channel/UCcnjJu-ejZlLaz-OwpBd7dQ
 
 # Разное
 * Как задавать вопросы правильно http://www.uneex.ru/static/HowTo_SmartQuestions/smart-questions-howto.html
+* Просто шикарная статья от одного из менторов https://medium.com/rs-school/rs-school-myths-63940f3b9fcd
 
 
 
