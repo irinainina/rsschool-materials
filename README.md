@@ -104,8 +104,8 @@ https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/
 * Cписок каверзных вопросов по JavaScript. 
 Каждый вопрос — с ответом и с подробным пояснением, почему все так работает https://github.com/lydiahallie/javascript-questions
 * Типичные вопросы которые могут задач на интервью: 
-https://github.com/khan4019/front-end-Interview-Questions
-https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md
+  + https://github.com/khan4019/front-end-Interview-Questions
+  + https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/behavioral.md
 * Сопровождающий текст и гайд что делать и что нельзя делать до и после технического интервью:
 https://docs.google.com/document/d/13ut8YTFhkLjvrshmGnYlGaiocYWrKmvRNUcalX4lsqs/edit?usp=sharing
 * Презентация (общая подготовка к любому интервью):
