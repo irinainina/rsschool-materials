@@ -55,7 +55,7 @@
 ### Интерактивные курсы
 * Интерактивный курс от Hexlet JavaScript для начинающих с нуля. 
 Достаточно хороший, есть интересные моменты, на русском языке https://ru.code-basics.com/languages/javascript
-Отличный сайт для тренировки методов массивов forEach, map, filter, reduce. Задачи становятся  сложнее и сложнее) 
+* Отличный сайт для тренировки методов массивов forEach, map, filter, reduce. Задачи становятся  сложнее и сложнее) 
 В общем, станете гуру в работе с массивами http://reactivex.io/learnrx/
 
 ## JavaScript (отдельные темы)
@@ -111,22 +111,22 @@ https://docs.google.com/document/d/13ut8YTFhkLjvrshmGnYlGaiocYWrKmvRNUcalX4lsqs/
 * Презентация (общая подготовка к любому интервью):
 https://drive.google.com/open?id=13fGnnZC57CUFVAl-VWli737Tikl_5ZiL
 * Представители одного из проектов скинули список статей, на основании которых они спрашивают теорию.
-this\bind\call\apply: https://habrahabr.ru/post/149516/  
-Наследование https://learn.javascript.ru/prototypes  
-Замыкание https://learn.javascript.ru/closures  
-Всплытие https://habrahabr.ru/post/127482/  
-Промисы https://habr.com/ru/company/mailru/blog/269465/  
-фазы события http://frontender.info/an-introduction-to-dom-events/  
-DOM Events & Event loop https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/  
-post\get\put https://habrahabr.ru/post/50147/  
-REST https://habr.com/ru/post/38730/  
-как работает браузер https://habrahabr.ru/company/dataart/blog/304138/  
-анимация https://www.youtube.com/watch?v=dWE3WEpqr7M  
+  + this\bind\call\apply: https://habrahabr.ru/post/149516/  
+  + Наследование https://learn.javascript.ru/prototypes  
+  + Замыкание https://learn.javascript.ru/closures  
+  + Всплытие https://habrahabr.ru/post/127482/  
+  + Промисы https://habr.com/ru/company/mailru/blog/269465/  
+  + фазы события http://frontender.info/an-introduction-to-dom-events/  
+  + DOM Events & Event loop https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/  
+  + post\get\put https://habrahabr.ru/post/50147/  
+  + REST https://habr.com/ru/post/38730/  
+  + как работает браузер https://habrahabr.ru/company/dataart/blog/304138/  
+  + анимация https://www.youtube.com/watch?v=dWE3WEpqr7M  
 * Примеры задач и их решения:
-http://www.thatjsdude.com/interview/js1.html  
-http://www.thatjsdude.com/interview/js2.html  
-http://www.thatjsdude.com/interview/html.html  
-http://www.thatjsdude.com/interview/css.html  
+  + http://www.thatjsdude.com/interview/js1.html  
+  + http://www.thatjsdude.com/interview/js2.html  
+  + http://www.thatjsdude.com/interview/html.html  
+  + http://www.thatjsdude.com/interview/css.html  
 
 # Устройство на работу
 * Шаблон резюме https://docs.google.com/document/d/1mxHJXUCdIFSzw5hI1u3w_2aw0RU5fsBSxMUQztFMQwc/
